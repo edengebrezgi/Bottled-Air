@@ -1,0 +1,68 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url('https://images.pexels.com/photos/907274/pexels-photo-907274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+img{
+  height: 200px;
+  padding-right: 57%;
+  padding-top: 13%;
+  padding-left: 17%;
+}
+
+img.bottleguy{
+  padding: 10%;
+  padding-right: 67%;
+  padding-left: 1%;
+}
+
+.containerBoba{
+  width:80%;
+  background-color: rgba(240, 134, 12, 0.014);
+  margin-left:10%;
+  
+}
+
+h3,h4{
+  text-align: center;
+  font-weight:bolder;
+}
+.jumbotron{
+width:40%;
+background-color: #7abbda00
+}
+
+.messages{
+  padding:5%;
+  font-size: 15px;
+  margin-left:25%;
+  font-weight: bolder;
+  background-color: rgb(236, 201, 155);
+  width: 55%;
+}
+.cashierContainer{
+  position:absolute;
+  bottom:25%;
+  right:10%;
+  background-color: rgba(250, 235, 215, 0.014);
+  width:45%;
+  height:50%;
+  text-align: center;
+}
+.well{
+padding:5%;
+margin-left:10%;
+font-size: 15px;
+}
+.cashierTitle{
+  padding: -1%;
+  /* margin:10%; */
+  font-size: 18px;
+}
+
+button{
+  margin:5%;
+}
